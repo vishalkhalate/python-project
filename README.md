@@ -1,1 +1,1 @@
-# python-project
+Vechile Accident Detection And Alert System
